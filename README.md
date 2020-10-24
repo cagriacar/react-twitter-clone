@@ -2,9 +2,9 @@
 
 paketleri yükleyin .json
 
-npm install
+## npm install
 
-npm start
+## npm start
 
 hosting: https://twitter-clone-9c505.web.app/
 
